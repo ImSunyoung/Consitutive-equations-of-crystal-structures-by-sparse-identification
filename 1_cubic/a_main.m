@@ -1,7 +1,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %
 %
-%           Discovering constiutive models for tetragonal crystals
+%           Discovering constiutive models for cubic crystals
 % 
 %                                                                2021-04-06
 %                                                      imsunyoung@snu.ac.kr
